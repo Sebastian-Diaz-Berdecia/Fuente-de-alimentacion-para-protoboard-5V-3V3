@@ -53,15 +53,15 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 - ✅ Schematic design complete.  
 - ✅ PCB layout (2-layer) completed.  
-- 🔜 Fabricación.
-- 🔜 Prototipado y pruebas en progreso.
+- 🔜 Fabricación (pendiente).
+- 🔜 Prototipado y pruebas en progreso (pendiente).
 
 ---
 
 ## 📷 Preview
 
 *(Add photos, renderings, or thermal plots here when available.)*
-
+*(La idea general es emepzar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambein mejores capacidades)*
 ---
 
 ## 📜 License
