@@ -7,7 +7,9 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ---
 
+<p align="center">
 <img width="1001" height="843" alt="image" src="https://github.com/user-attachments/assets/7b69507d-e015-47d7-9654-7ce675dfe027" />
+</p>
 
 ---
 
@@ -64,9 +66,13 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 *(Add photos, renderings, or thermal plots here when available.)*
 
-<img width="1253" height="827" alt="image" src="https://github.com/user-attachments/assets/a622aa23-7aa9-4305-b177-7151c286477b" />
-<img width="544" height="808" alt="image" src="https://github.com/user-attachments/assets/18c860ca-ad4d-4b30-89a6-9b89d0d50e2c" />
+<p align="center">
+<img width="1256" height="842" alt="image" src="https://github.com/user-attachments/assets/edffd73b-e9d2-481d-81b5-602c0c91d43d" />
+</p>
 
+<p align="center">
+<img width="808" height="544" alt="Layout2" src="https://github.com/user-attachments/assets/81088cb7-ab9b-4455-8a1e-b3b2b763281c" />
+</p>
 *(La idea general es emepzar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambein mejores capacidades)*
 ---
 
