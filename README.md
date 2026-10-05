@@ -1,4 +1,4 @@
-# Fuente de alimentación para protoboard con dos salidas programables a 5V y 3V3
+# Fuente de alimentación para protoboard con dos salidas programables a 5V y 3V3 V0.1
 
 Este proyecto es una fuente de alimentación programable para protoboard basada en los reguladores lineales **LM7805** y el **LM317** con dos salidas independientes que se pueden programar para sumistrar dos tensiones, 5V o 3.3V.
 
@@ -9,7 +9,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 ![Module Preview](https://raw.githubusercontent.com/electgpl/DCDCsyncBuckFSS/refs/heads/main/Resources/541955125_18524312182045902_4678174790925630173_n.jpg)
 ---
 
-## 🔑 Key Features
+## 🔑 Caracteristicas principales
 
 - **Reguladores lineales LM7805 y LM317**
   - Alta reparabilidad.
@@ -24,14 +24,14 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ---
 
-## 📐 Form Factor
+## 📐 Factor de forma
 
 - Tamaño compatible con la mayoria de protoboards.
 - Conexión rapida y directa con los rieles de alimentación de la protoboard. 
 
 ---
 
-## 🛠 Applications
+## 🛠 Aplicaciones
 
 - Microntroladores.  
 - Sistemas embebidos.  
@@ -41,7 +41,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ---
 
-## 📄 Documentation
+## 📄 Documentación 
 
 - [AP64501 Datasheet (Diodes Incorporated)](https://www.diodes.com/assets/Datasheets/AP64501.pdf)  
 - Thermal FEA analysis results included in `/docs`.  
@@ -49,7 +49,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ---
 
-## 🚀 Status
+## 🚀 Estado
 
 - ✅ Schematic design complete.  
 - ✅ PCB layout (2-layer) completed.  
