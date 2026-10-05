@@ -11,25 +11,14 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ## 🔑 Key Features
 
-- **Synchronous buck regulator (AP64501)**
-  - Higher efficiency compared to asynchronous regulators.
-  - Reduced heat generation under load.
-- **Fixed Spread Spectrum (FSS)**
-  - Lower EMI and more predictable spectral content.
-- **Soft-Start (SS)**
-  - Controlled inrush current during power-up.
-- **Protections included**
-  - Overcurrent protection (OCP).
-  - Overvoltage protection (OVP).
-  - Thermal shutdown (TSD).
-- **Output filtering**
-  - Additional **LC filter stage** for significantly reduced ripple.
-- **PCB design**
-  - **4-layer PCB** for improved heat spreading and ground integrity.
-  - Optimized layout for EMI and thermal performance.
-- **Thermal analysis**
-  - Finite Element Analysis (FEA) performed.
-  - Effective thermal resistance: **55 °C/W** (with 1 oz copper).
+- **Reguladores lineales LM7805 y LM317**
+  - Alta reparabilidad.
+  - Diseño simple fácil de entender.
+  - Tensión limpia sin ruido de conmutación (a diferencia de una fuente o regulador conmutado).
+- **Factor de forma**
+  - Ocupa poco espacio y facil de conectar.
+  - Compatible con varios tipos de protoboards.
+  - Plug and play (es una alternativa sencilla de una fuente de laboratorio convencional.
 
 ---
 
@@ -40,23 +29,13 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ---
 
-## 📊 Performance Advantages over LM2596 Modules
-
-- ✅ Higher efficiency → less power loss.  
-- ✅ Lower EMI thanks to fixed-frequency operation and optimized layout.  
-- ✅ Lower output ripple due to additional LC stage.  
-- ✅ Improved thermal performance with 4-layer PCB and synchronous design.  
-- ✅ Built-in protections increase reliability and robustness.
-
----
-
 ## 🛠 Applications
 
-- Embedded systems.  
-- IoT devices.  
-- RF front-ends (low-ripple supply requirement).  
-- General-purpose regulated DC power supply.  
-- Replacement for LM2596 modules in existing projects.
+- Microntroladores.  
+- Sistemas embebidos.  
+- Circuitos de proposito general de 5V o 3.3V.  
+- Prototipado y pruebas.
+- Alternativa a una fuente de laboratorio convencional.
 
 ---
 
