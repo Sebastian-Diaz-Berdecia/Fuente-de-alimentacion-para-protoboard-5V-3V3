@@ -1,4 +1,4 @@
-# High-Performance Synchronous Buck Converter Module (AP64501)
+# Fuente de alimentación para protoboard con dos salidas programables a 5V y 3V3
 
 This project is the design of a **DC-DC buck regulator module** based on the **AP64501**.  
 It is mechanically and electrically compatible with the popular **LM2596-based low-cost Chinese modules**, using the same form factor, size, and pinout.  
