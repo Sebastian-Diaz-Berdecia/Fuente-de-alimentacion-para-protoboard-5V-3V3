@@ -6,7 +6,9 @@ Su factor de forma y conectores permiten acoplarla con facilidad a la protoboard
 La fuente hace uso de dos conectores que se pueden ajustar para que cada salida suministre ya sea una tensión de 5V o de 3.3V de forma independiente para cada salida. 
 
 ---
-![Module Preview](https://raw.githubusercontent.com/electgpl/DCDCsyncBuckFSS/refs/heads/main/Resources/541955125_18524312182045902_4678174790925630173_n.jpg)
+
+<img width="1001" height="843" alt="image" src="https://github.com/user-attachments/assets/7b69507d-e015-47d7-9654-7ce675dfe027" />
+
 ---
 
 ## 🔑 Caracteristicas principales
