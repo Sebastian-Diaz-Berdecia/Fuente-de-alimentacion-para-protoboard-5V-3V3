@@ -47,9 +47,8 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ## 📄 Documentación 
 
-- [AP64501 Datasheet (Diodes Incorporated)](https://www.diodes.com/assets/Datasheets/AP64501.pdf)  
-- Thermal FEA analysis results included in `/docs`.  
-- PCB design files in `/hardware`.
+- [LM7805](https://rocelec.widen.net/view/pdf/hl53fsrf43/FAIR-S-A0000088116-1.pdf?t.download=true&u=5oefqw)  
+- [LM317](https://www.ti.com/lit/ds/symlink/lm317.pdf)  
 
 ---
 
