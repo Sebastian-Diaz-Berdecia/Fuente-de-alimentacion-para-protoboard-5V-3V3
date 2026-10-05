@@ -19,13 +19,15 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
   - Ocupa poco espacio y facil de conectar.
   - Compatible con varios tipos de protoboards.
   - Plug and play (es una alternativa sencilla de una fuente de laboratorio convencional.
+- **Alimentación**
+  - Se alimenta por medio de un adaptador de 9V a 12V a través de una entrada barrel jack.
 
 ---
 
 ## 📐 Form Factor
 
-- Pinout, size, and footprint are **drop-in compatible** with standard LM2596-based modules.  
-- This allows easy replacement in existing designs, providing an **immediate upgrade** without redesigning the host PCB.
+- Tamaño compatible con la mayoria de protoboards.
+- Conexión rapida y directa con los rieles de alimentación de la protoboard. 
 
 ---
 
@@ -50,9 +52,9 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 ## 🚀 Status
 
 - ✅ Schematic design complete.  
-- ✅ PCB layout (4-layer) completed.  
-- ✅ Thermal simulation results validated.  
-- 🔜 Hardware prototyping and testing in progress.
+- ✅ PCB layout (2-layer) completed.  
+- 🔜 Fabricación.
+- 🔜 Prototipado y pruebas en progreso.
 
 ---
 
