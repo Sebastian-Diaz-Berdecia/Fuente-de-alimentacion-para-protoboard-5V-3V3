@@ -63,6 +63,10 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 ## 📷 Preview
 
 *(Add photos, renderings, or thermal plots here when available.)*
+
+<img width="1253" height="827" alt="image" src="https://github.com/user-attachments/assets/a622aa23-7aa9-4305-b177-7151c286477b" />
+<img width="544" height="808" alt="image" src="https://github.com/user-attachments/assets/18c860ca-ad4d-4b30-89a6-9b89d0d50e2c" />
+
 *(La idea general es emepzar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambein mejores capacidades)*
 ---
 
