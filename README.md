@@ -1,7 +1,9 @@
 # Fuente de alimentación para protoboard con dos salidas programables a 5V y 3V3
 
-Este proyecto es una fuente de alimentación programable para protoboard basada en los reguladores lineales **LM7805** y el **LM317**con dos salidas independientes que se pueden programar para sumistrar dos tensiones, 5V o 3.3V. Su factor de forma y conectores permiten acoplarla con facilidad a la protoboard a través de sus rieles de alimentación superior e inferior.
-La fuente hace uso de dos conectores que se pueden ajustar para que cada salida suministre ya sea una tensión de 5V o de 3.3V para cada salida de forma independiente. 
+Este proyecto es una fuente de alimentación programable para protoboard basada en los reguladores lineales **LM7805** y el **LM317** con dos salidas independientes que se pueden programar para sumistrar dos tensiones, 5V o 3.3V.
+
+Su factor de forma y conectores permiten acoplarla con facilidad a la protoboard a través de sus rieles de alimentación superior e inferior.
+La fuente hace uso de dos conectores que se pueden ajustar para que cada salida suministre ya sea una tensión de 5V o de 3.3V de forma independiente para cada salida. 
 
 ---
 ![Module Preview](https://raw.githubusercontent.com/electgpl/DCDCsyncBuckFSS/refs/heads/main/Resources/541955125_18524312182045902_4678174790925630173_n.jpg)
