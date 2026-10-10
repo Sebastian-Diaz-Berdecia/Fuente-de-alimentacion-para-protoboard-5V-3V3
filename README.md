@@ -22,7 +22,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 - **Factor de forma**
   - Ocupa poco espacio y facil de conectar.
   - Compatible con varios tipos de protoboards.
-  - Plug and play (es una alternativa sencilla de una fuente de laboratorio convencional.
+  - Plug and play (es una alternativa sencilla a una fuente de laboratorio convencional).
 - **Alimentación**
   - Se alimenta por medio de un adaptador de 9V a 12V a través de una entrada barrel jack.
 
