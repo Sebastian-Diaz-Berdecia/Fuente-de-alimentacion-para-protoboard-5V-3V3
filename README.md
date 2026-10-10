@@ -17,7 +17,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 - **Reguladores lineales LM7805 y LM317**
   - Alta reparabilidad.
-  - Diseño simple fácil de entender.
+  - Diseño simple fácil de entender para aficionados.
   - Tensión limpia sin ruido de conmutación (a diferencia de una fuente o regulador conmutado).
 - **Factor de forma**
   - Ocupa poco espacio y facil de conectar.
