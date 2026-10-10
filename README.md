@@ -54,8 +54,8 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 ## 🚀 Estado
 
-- ✅ Schematic design complete.  
-- ✅ PCB layout (2-layer) completed.  
+- ✅ Diseño esquematico.  
+- ✅ PCB layout (2-layer).  
 - 🔜 Fabricación (pendiente).
 - 🔜 Prototipado y pruebas (pendiente).
 
