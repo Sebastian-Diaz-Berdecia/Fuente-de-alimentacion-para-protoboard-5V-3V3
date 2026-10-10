@@ -80,7 +80,7 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 ---
 
 ## 📜 Ideas para futuras mejoras: (Borrador)
-- Usar la configuración programable del LM317 con un NE555 o un ATtyny para controlar la tensión de salida emplando pulsadores. 
+- Usar la configuración programable del LM317 con un NE555 o un ATtyny para controlar la tensión de salida empleando pulsadores. 
 - Usar el regulador lineal de bajo ruido LT3045
 - Transistor de paso externo o en configuración de boost de corriente para suministrar más corriente a las cargas.
 - Medicion de corriente y voltaje (Pantalla LCD).
