@@ -65,17 +65,28 @@ La fuente hace uso de dos conectores que se pueden ajustar para que cada salida 
 
 *(Add photos, renderings, or thermal plots here when available.)*
 
+- *Esquematico:*
 <p align="center">
 <img width="1256" height="842" alt="image" src="https://github.com/user-attachments/assets/edffd73b-e9d2-481d-81b5-602c0c91d43d" />
 </p>
 
+- *Layout a 2 capas:*
 <p align="center">
 <img width="808" height="544" alt="Layout2" src="https://github.com/user-attachments/assets/81088cb7-ab9b-4455-8a1e-b3b2b763281c" />
 </p>
-*(La idea general es emepzar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambein mejores capacidades)*
+
+*(La idea general es empezar por este layout y esquematico para poco a poco ir intruduciendo mejoras y caracteristicas mas avanzadas asi como tambien mejores capacidades)*
+
 ---
 
-## 📜 License
+## 📜 Ideas para futuras mejoras: (Borrador)
+- Usar la configuración programable del LM317 con un NE555 o un ATtyny para controlar la tensión de salida emplando pulsadores. 
+- Usar el regulador lineal de bajo ruido LT3045
+- Transistor de paso externo o en configuración de boost de corriente para suministrar más corriente a las cargas.
+- Medicion de corriente y voltaje (Pantalla LCD).
+- Agregar indicadores para señalizar la tensión de salida en uso.
+- Evaluar si mantener las salidas independientes o unificarlas.
+- Para esta versión en particular (v0.1) reemplazar los conectores por jumpers para PCB (como en los programadores de las BIOS).
 
-This project is released under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+---
+
